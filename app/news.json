@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "source": "the-next-web",
+    "sortBy": "latest",
+    "articles": [
+        {
+            "author": "Rachel Kaser",
+            "title": "Apple, Microsoft, and Google CEOs vow to fight for employees affected by DACA",
+            "description": "US officials today announced the end of Deferred Action for Childhood Arrivals (DACA), a program designed to aid children brought into the country illegally by granting them temporary ...",
+            "url": "https://thenextweb.com/us/2017/09/06/apple-microsoft-and-google-ceos-vow-to-fight-for-employees-affected-by-daca/",
+            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/timcook-social.jpg",
+            "publishedAt": "2017-09-06T02:01:54Z"
+        },
+        {
+            "author": "Bryan Clark",
+            "title": "Chill: Robot-related job loss won’t be that bad (probably)",
+            "description": "Automation now threatens as much as 40 percent of the job market. And unfortunately for many of us, we're on track to hit this target by 2030. But maybe it won't be that bad.\r\n\r\nThe ...",
+            "url": "https://thenextweb.com/artificial-intelligence/2017/09/06/chill-robot-related-job-loss-wont-be-that-bad-probably/",
+            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/shutterstock_407758888-social.jpg",
+            "publishedAt": "2017-09-06T01:51:42Z"
+        },
+        {
+            "author": "Napier Lopez",
+            "title": "Microsoft extends free Windows 10 S upgrade until March",
+            "description": "Microsoft is giving Windows 10 S users a bit more time to decide whether they want to upgrade to Windows 10 Pro. The company today announced it is extending the upgrade promotion until ...",
+            "url": "https://thenextweb.com/microsoft/2017/09/05/microsoft-extends-windows-10-s-upgrade-pro/",
+            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/Surface-Laptop-Windows-10-S-12-of-12-social.jpg",
+            "publishedAt": "2017-09-05T23:55:42Z"
+        }
+        
+    ]
+}

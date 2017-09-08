@@ -1,0 +1,13 @@
+.col-1 {
+  display: inline-block;
+  width: 20%;
+}
+h1{
+     color:white;
+     background-color: black;
+     text-align: center;
+     padding: 10px;
+}
+.footer{
+  text-align: center;
+}

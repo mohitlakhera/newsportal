@@ -1,0 +1,30 @@
+.image{
+  position: relative;
+}
+.title{
+  position: absolute;
+  bottom: 6px;
+  left: 19px;
+  font-size: 11px;
+  color: whitesmoke;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 75%;
+}
+.info {
+  color:black;
+  font-weight: bold;
+  font-size: 22px;
+}
+#newsContent{
+  border-right: 1px solid black;
+  
+  padding-left: 14px;
+  padding-right: 14px;
+}
+p.desc{
+  margin: 2px 0px 10px;
+  height: 80px;
+  border-bottom: 1px solid #ddd;
+}
